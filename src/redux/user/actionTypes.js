@@ -1,0 +1,7 @@
+export const userTypes = {
+    LOGIN: 'LOGIN_USER',
+    LOGIN_FAILED: 'LOGIN_USER_FAILED',
+    LOGIN_SUCCESS: 'LOGIN_USER_SUCCESS',
+    LOGIN_RESET: 'LOGIN_RESET',
+    LOGOUT: 'LOGOUT'
+}
